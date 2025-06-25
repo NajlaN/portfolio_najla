@@ -8,6 +8,7 @@ https://github.com/NajlaN/Pixihive
 > ![Dashboard Pixibot](https://github.com/NajlaN/Pixihive/blob/main/dashboard%20com.png?raw=true)
 
 ## projet sèrie temporelle :
+https://github.com/NajlaN/s-rie_temporelle
 ![Dashboard Apple](https://github.com/NajlaN/s-rie_temporelle/blob/main/dashboard%20apple.png?raw=true)
 
 
